@@ -34,8 +34,9 @@ Thonny
 ## Enlaces de la simulación de wokwi
 **Enlace de simulacion de wokwi (Personaje navideño):** https://wokwi.com/projects/410215227928028161
 
-**Enlace al video de la simulacion en wokwi:**
+**Enlace al video de la simulacion en wokwi (Explicación):**
 [(Link drive)](https://drive.google.com/file/d/13kq33B8S20Uepw5AUmAIPc7jGQ9eUdB-/view?usp=drive_link)
+
 
 
 # PRACTICA FINAL
@@ -45,6 +46,8 @@ https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sha
 <h6>Coevaluacion a Juan Diego Ruiz Rivera<h6>
 El desempeño que tuvó mi compañero Diego fue bueno, durante el examen final se desenvolvio de forma correcta, aportando en la codificacion y construccion del circuito para su funcionamiento, ademas de que aporto con ideas para mejorar las actividades a realizar.
 No hay ninguna evaluacion negativa hacia el, y que durante todo el trabajo aportó su conocimiento y habilidad para poder desarrollar el proyecto.
+
+
 
 # DOCUMENTACIÓN
 ## Ejercicios en clase
