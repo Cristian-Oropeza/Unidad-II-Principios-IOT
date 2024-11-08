@@ -44,8 +44,9 @@ Thonny
 https://drive.google.com/drive/folders/1XWQ2vhsBNG0M-J1PbzXqW3om_PL8bapE?usp=sharing
 
 <h6>Coevaluacion a Juan Diego Ruiz Rivera<h6>
-El desempeño que tuvó mi compañero Diego fue bueno, durante el examen final se desenvolvio de forma correcta, aportando en la codificacion y construccion del circuito para su funcionamiento, ademas de que aporto con ideas para mejorar las actividades a realizar.
+El desempeño que tuvó mi compañero Diego fue bueno, durante el examen final se desenvolvio de forma correcta, aportando en la codificacion y construccion del circuito con el conectado de cableado para su funcionamiento, ademas de que aporto con ideas para mejorar las actividades a realizar.
 No hay ninguna evaluacion negativa hacia el, y que durante todo el trabajo aportó su conocimiento y habilidad para poder desarrollar el proyecto.
+El unico detalle que hubo durante esta practica fue un error de libreria que posteriormente se arregló.
 
 
 
